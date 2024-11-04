@@ -14,7 +14,7 @@ Software:
 	| Administrator   | ONLY to run BYpass Control Panel                  |
 	| Privileges      |                                                   |
 	+-----------------+---------------------------------------------------+
-	| Edge, Chrome    | for Web Automation                                |
+	| Edge, Chrome    | for Web Automation. aha.                          |
 	| 			      |                                                   |
 	+-----------------+---------------------------------------------------+
 	

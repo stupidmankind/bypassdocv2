@@ -11,7 +11,7 @@ Software:
 	+-----------------+---------------------------------------------------+
 	| .NET Framework  | 4.8                                               |
 	+-----------------+---------------------------------------------------+
-	| Administrator   | is required for BYpass Control Panel              |
+	| Administrator   | is required to run BYpass Control Panel           |
 	| Privileges      |                                                   |
 	+-----------------+---------------------------------------------------+
 

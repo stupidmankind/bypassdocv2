@@ -1,34 +1,11 @@
 Usage
 =====
 
-.. _installation:
+This section explains the usages on BYpass. Use :doc:`settings` to configure how BYpass working. Check out :doc:`buildflow` to get start of building script. Use :doc:`debug` when the script doesn't work as expect and understand :doc:`updating` to get **BYpass** up to date.
 
-Installation
-------------
-
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+.. 	toctree::
+	settings
+	buildflow
+	debug
+	updating
+	tools

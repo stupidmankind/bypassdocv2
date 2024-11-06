@@ -6,6 +6,7 @@ Welcome to BYpass's documentation!
 .. note::
 
    What is RPA?.
+   RPA stands for Robotic Process Automation. The role of RPA is to automate repetitive tasks that were previously handled by humans. RPA is the software robot that is programmed to do repetitive tasks across applications and systems.
 
 
 .. 	toctree::

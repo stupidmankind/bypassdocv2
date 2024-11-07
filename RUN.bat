@@ -1,0 +1,1 @@
+ActivateEnvironment.bat && BuildBYpassDoc.bat && pause

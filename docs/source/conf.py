@@ -5,11 +5,11 @@ sys.path.insert(0, os.path.abspath('../..'))
 # -- Project information
 
 project = 'BYpass'
-copyright = '2022, Backyard'
+copyright = '2024, Backyard'
 author = 'Backyard'
 
-release = '1.0'
-version = '1.0.0'
+release = '1.1'
+version = '1.1.0'
 
 # -- General configuration
 

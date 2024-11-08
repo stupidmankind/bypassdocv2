@@ -15,7 +15,7 @@ BYpass Developer Tool consists of four main panes
 	
 * **Middle pane:**
 
-	- The :doc:`scripteditorwindow` for RPA flow design
+	- The :doc:`scripteditorwindow` for RPA script design
 	
 * **Right pane:**
 

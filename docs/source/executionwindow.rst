@@ -1,7 +1,7 @@
 Execution Window
 ================
 
-This window displays the status of execution. You can pause or stop execution from this window.
+This window displays the status of execution. You can pause or stop the script execution from this window. There are three states of the exection window as below. 
 
 **Being Execution**
 

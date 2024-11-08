@@ -1,4 +1,4 @@
 Watch Window
 ============
 
-This windows displays the value of variable from the script execution. You can use this window to validate and verify the correctness of each varible in each step of the execution in order to ensure that the script will working correctly.
+This windows displays the value of variables from the execution. You can use this window to validate or verify the value of each varible in each step of the execution. Watch is very useful tool to assist you ensuring that the script produces correct output.

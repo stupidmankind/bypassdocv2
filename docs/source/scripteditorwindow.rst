@@ -1,6 +1,6 @@
 Script Editor Window
 ====================
 
-This window is where the sequence of commands are constructed into the flow. Double click the commmand from :doc:`commandswindow` will place specific command into this window area. 
+This window is where the sequence of commands are constructed into the script. You can select the command by using double click on the desire commmand from :doc:`commandswindow`. The selected command will place on this window area. 
 
-Script Editor Window are tabbed window. It supports several window at the same time. You can also move, copy, edit, delete commands just like you are writing a story in the document editor. 
+Script Editor Window are tabbed windows. It supports multiple windows. So, you can move, copy, edit, delete commands just like you are writing a story in the document editor. 
